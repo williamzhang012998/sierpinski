@@ -9,5 +9,8 @@ The same sequence of shapes, converging to the Sierpinski triangle, can alternat
 
 Color changes on the corners were also implemented.
 
+Demo:
+https://youtu.be/gmduHxWDj9k
+
 ![alt text](https://github.com/williamzhang012998/sierpinski/blob/master/example.png)
 
